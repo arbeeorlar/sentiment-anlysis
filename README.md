@@ -12,7 +12,7 @@ A very detailed explaination along with accompanying readable code is available 
 
 # Tools
 
- 1. Python 2.7  and dependencies: numpy, pandas, bcolz, pickle, json, nltk, Theano or Tensorflow, Keras, 
+ 1. Python 2.7  and dependencies: numpy, pandas, bcolz, pickle, json, nltk, Theano or Tensorflow, Keras, re
  
  programmed and documented in  Jupyter notebook.
  
